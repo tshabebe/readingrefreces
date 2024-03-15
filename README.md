@@ -25,3 +25,9 @@
 - [**learn git**](https://www.atlassian.com/git/tutorials)
 
 - [**commit message proposal**](https://gist.github.com/abravalheri/34aeb7b18d61392251a2)
+
+# db
+
+- [**better_way_to_write_schema**](https://www.sisense.com/blog/better-sql-schema/)
+
+> db stuff
