@@ -30,4 +30,6 @@
 
 - [**better_way_to_write_schema**](https://www.sisense.com/blog/better-sql-schema/)
 
-> db stuff
+- [**Xata**](https://xata.io/pricing)
+
+> generous free tier
