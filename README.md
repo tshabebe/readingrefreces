@@ -33,3 +33,11 @@
 - [**Xata**](https://xata.io/pricing)
 
 > generous free tier
+
+# tailwind
+
+- [**sira ui**](https://www.sisense.com/blog/better-sql-schema/)
+
+- [**floatui**](https://floatui.com/components)
+
+- [**kimiaui**](https://kimia-ui.vercel.app/components/accordion)
