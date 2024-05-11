@@ -36,7 +36,7 @@
 
 # tailwind
 
-- [**sira ui**](https://www.sisense.com/blog/better-sql-schema/)
+- [**sira ui**](https://sira.riazer.com/)
 
 - [**floatui**](https://floatui.com/components)
 
