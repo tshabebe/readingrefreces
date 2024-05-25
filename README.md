@@ -41,3 +41,5 @@
 - [**floatui**](https://floatui.com/components)
 
 - [**kimiaui**](https://kimia-ui.vercel.app/components/accordion)
+
+- [**list of react tailwindcss ui components**](https://github.com/hevar/awesome-react-tailwindcss-ui-components)
