@@ -50,4 +50,4 @@
 - [**color convertor**](https://colordesigner.io/convert/hsltohex)
 
 # ui/ux
-- [**navigation ux**](https://10015.io/tools/hex-to-rgba-converter)
+- [**navigation ux**](https://userpilot.com/blog/navigation-ux/)
