@@ -45,7 +45,7 @@
 - [**list of react tailwindcss ui components**](https://github.com/hevar/awesome-react-tailwindcss-ui-components)
 
 # colors
-- [**color convertor**](https://10015.io/tools/hex-to-rgba-converter)
+- [**color convertor**](https://htmlcolors.com/hex-to-hsl)
 - [**color scheme generator**](https://colorffy.com/color-scheme-generator?color=dedede)
 - [**color convertor**](https://colordesigner.io/convert/hsltohex)
 
