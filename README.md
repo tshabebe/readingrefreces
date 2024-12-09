@@ -53,3 +53,4 @@
 - [**navigation ux**](https://userpilot.com/blog/navigation-ux/)
 - [**design tools**](https://toools.design/)
 - [**kanban board**](https://www.hover.dev/components/boards)
+- [**custom shadcn**](https://www.neobrutalism.dev/shadcn/components/textarea)
