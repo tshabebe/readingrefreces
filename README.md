@@ -54,3 +54,6 @@
 - [**design tools**](https://toools.design/)
 - [**kanban board**](https://www.hover.dev/components/boards)
 - [**custom shadcn**](https://www.neobrutalism.dev/shadcn/components/textarea)
+
+# development
+- [**bulletproof-react**](https://github.com/alan2207/bulletproof-react)
